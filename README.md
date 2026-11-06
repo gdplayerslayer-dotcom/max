@@ -1,2 +1,9 @@
 # Max-EZ
 Better than the Interstellar proxy lol. I'm not joking I will beat them.
+{
+    "name": "Elixir Proxy",
+    "description": "Ultraviolet proxy ultiziing Ultraviolet and bare-server",
+    "repository": "https://github.com/whos-evan/elixir",
+    "logo": "https://github.com/whos-evan/elixir/blob/c4fbe8e87fb0567e041db20391da36e1b64b0151/images/favicon.ico",
+    "keywords": ["node", "elixir", "ultraviolet", "bare-server"]
+  }
